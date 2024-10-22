@@ -16,52 +16,52 @@ Gerenciamento de medicamentos, mapeamento de atendimentos médicos, recomendaç�
 |Camada de Serviço     |
 |----------------------|
 
-|  - UsuárioService                     |
-|  - TokenService                       |
-|  - MedicamentoService                 |
-|  - AtendimentoMedicoService           |
-|  - RecomendacaoMedicaService          |
+  - UsuárioService                     
+  - TokenService                       
+  - MedicamentoService                 
+  - AtendimentoMedicoService           
+  - RecomendacaoMedicaService          
 -----------------------------------------------------
 
 
 |Camada de Repositório |
 |----------------------|
 
-|  - UsuárioRepository                   |
-|  - TokenRepository                     |
-|  - MedicamentoRepository               |
-|  - AtendimentoMedicoRepository         |
-|  - RecomendacaoMedicaRepository        |
+  - UsuárioRepository                   
+  - TokenRepository                     
+  - MedicamentoRepository               
+  - AtendimentoMedicoRepository         
+  - RecomendacaoMedicaRepository        
 -----------------------------------------------------
 
 
 |Camada de Modelo      |
 |----------------------|
 
-|  - Usuário                             |
-|     - ID                               |
-|     - Nome                             |
-|     - Email                            |
-|                                        |
-|  - Token                               |
-|     - Token ID                         |
-|     - Usuário ID                       |
-|     - Expiração                        |
-|                                        |
-|  - Medicamento                         |
-|     - ID                               |
-|     - Nome                             |
-|     - Dosagem                          |
-|                                        |
-|  - AtendimentoMedico                   |
-|     - ID                               |
-|     - Paciente                         |
-|     - Data                             |
-|                                        |
-|  - RecomendacaoMedica                  |
-|     - ID                               |
-|     - Descrição                        |
-|     - AtendimentoId                    |
+  - Usuário                             
+     - ID                               
+     - Nome                             
+     - Email                            
+                                        
+  - Token                               
+     - Token ID                         
+     - Usuário ID                       
+     - Expiração                        
+                                        
+  - Medicamento                         
+     - ID                               
+     - Nome                             
+     - Dosagem                          
+                                        
+  - AtendimentoMedico                   
+     - ID                               
+     - Paciente                         
+     - Data                             
+                                        
+  - RecomendacaoMedica                  
+     - ID                               
+     - Descrição                        
+     - AtendimentoId                    
 -----------------------------------------------------
 
 ##Descrição das Camadas
