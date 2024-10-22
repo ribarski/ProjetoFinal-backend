@@ -12,7 +12,7 @@ Gerenciamento de medicamentos, mapeamento de atendimentos médicos, recomendaç�
 |  - Tela de Recomendações              |
 -----------------------------------------------------
 
-|----------------------|
+
 |Camada de Serviço     |
 |----------------------|
 
@@ -23,7 +23,7 @@ Gerenciamento de medicamentos, mapeamento de atendimentos médicos, recomendaç�
 |  - RecomendacaoMedicaService          |
 -----------------------------------------------------
 
-|----------------------|
+
 |Camada de Repositório |
 |----------------------|
 
@@ -34,7 +34,7 @@ Gerenciamento de medicamentos, mapeamento de atendimentos médicos, recomendaç�
 |  - RecomendacaoMedicaRepository        |
 -----------------------------------------------------
 
-|----------------------|
+
 |Camada de Modelo      |
 |----------------------|
 
