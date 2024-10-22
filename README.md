@@ -5,11 +5,11 @@ Gerenciamento de medicamentos, mapeamento de atendimentos médicos, recomendaç�
 |Camada de Apresentação|
 |----------------------|
 
-|  - Tela de Login                      |
-|  - Tela de Registro                   |
-|  - Tela de Medicamentos               |
-|  - Tela de Atendimentos               |
-|  - Tela de Recomendações              |
+  - Tela de Login                      
+  - Tela de Registro                   
+  - Tela de Medicamentos               
+  - Tela de Atendimentos               
+  - Tela de Recomendações              
 -----------------------------------------------------
 
 
