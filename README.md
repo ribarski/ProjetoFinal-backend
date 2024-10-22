@@ -64,8 +64,6 @@ Gerenciamento de medicamentos, mapeamento de atendimentos médicos, recomendaç�
      - AtendimentoId                    
 -----------------------------------------------------
 
-# Descrição das Camadas
-
 # Camada de Apresentação
 
 Interface do usuário onde as interações ocorrem, incluindo telas para login, registro, gerenciamento de medicamentos, atendimentos médicos e recomendações.
